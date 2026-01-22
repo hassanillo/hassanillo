@@ -44,14 +44,14 @@
   - **Bases de datos**
   
   ![Static Badge](https://img.shields.io/badge/SQL-white?logo=MySQL)
-  ![Static Badge](https://img.shields.io/badge/Docker-lightblue?logo=Docker)
   ![Static Badge](https://img.shields.io/badge/MongoDB-green?logo=MongoDB)
   
   
-  - **Sistemas Informáticos**
+  - **Sistemas y Herramientas**
   
   ![Static Badge](https://img.shields.io/badge/Windows-lightblue)
   ![Static Badge](https://img.shields.io/badge/Linux-red?logo=Linux&labelColor=grey)
+  ![Static Badge](https://img.shields.io/badge/Docker-lightblue?logo=Docker)
 
 </br>
 
@@ -59,10 +59,8 @@
 
   ###  🖥️ **Backend**
   ###  🖥️ **Full-Stack** 
-  ###  🎨 **Diseño UI/UX** 
   ###  💾 **Bases de Datos** 
-  ###  📲 **Mobile Development** 
-
+  ###  🎨 **Diseño UI/UX** 
 
 
 <!--
